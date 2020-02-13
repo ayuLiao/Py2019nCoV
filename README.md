@@ -14,6 +14,8 @@ run
 python main.py
 ```
 
+![](https://raw.githubusercontent.com/ayuLiao/images/master/20200213161150.png)
+
 Enjoy Hacking.
 
 ## 灵感来源
